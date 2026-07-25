@@ -1,3 +1,4 @@
+# Congratulations! You have completed the HTML CV project.
 # HTML CV Project
 
 This is my solution for the HTML CV project.
